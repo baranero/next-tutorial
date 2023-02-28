@@ -21,11 +21,11 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        I'm a beginner frontend developer. I know what hoisting and event loop are. Regarding GIT, I know much more than commit to main branch. I create my own non-commercial projects. So far, I have made them for educational reasons, but I would like to use my gained skills in a professional company.</p>
+
+        <p>I work as a Captain Officer in Fire Department and designer of fire safety systems. My experience is not directly connected to programming but it taught me several crucial abilities required in every business. I know how to properly manage projects, how to meet deadlines and work with clients.</p>
+        
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
